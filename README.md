@@ -11,3 +11,11 @@ sort bookmarks by date, title, or tag
 create custom views of your bookmarks
 add comments to bookmarks
 export bookmarks to a variety of formats
+
+Sync bookmarks across multiple browsers and devices
+Tag bookmarks with keywords for easy searching
+Create folders to organize bookmarks
+Add notes to bookmarks
+Search for duplicate bookmarks and remove them
+Check for deadlinks
+Sync to cloud drives
